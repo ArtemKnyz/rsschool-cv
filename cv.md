@@ -42,7 +42,6 @@ Accomplishment:
 ? Search for radio transmitters and interference sources
 ? Working with spectral analyzers Rohde & Schwarz
 ? Conduct laboratory special studies;
-? Conducting object-specific research
 ? Certification of information objects for the requirements information security;
 ? Analysis and evaluation of the results of special studies;
 
@@ -119,15 +118,4 @@ Bashkir Interdisciplinary Institute for Occupational Safety, Ufa, 2016
 
 Language Skills
 
-Russian* NativeEnglish* AdvancedGerman* Elementary
-Work Permit In Eu
-
-      My education and experience fit with Blue Card program (http://www.bluecard-eu.de), therefore for the work permit just a work contract or binding job offer is needed"
-
- 	References  	
-
-Available upon request
-
-
-
-
+Russian* NativeEnglish* AdvancedGerman* Elementary
