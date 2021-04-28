@@ -37,7 +37,7 @@ _Since 2020-to present_
 *on Spring JDBC, JPA (Hibernate) and Spring-Data-JPA
 
 __The Ramec, St. Petersburg, Russian Federation__
-Engineer of special measurements	_8/2016 – present_
+Engineer of special measurements	_2016 – 2020_
 
 *Accomplishment:
  *Search for radio transmitters and interference sources
