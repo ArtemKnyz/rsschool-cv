@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <title>My CV</title>
+  <!--<title>My CV</title>-->
   <link rel="stylesheet" href="normalize.css" />-->
   <link rel="stylesheet" href="main.css" />
 </head>
@@ -113,8 +113,7 @@
             <li>            
             <p>
                 <a href="https://english.spbstu.ru/">Peter the Great St. Petersburg Polytechnic University</a> Saint-Petersburg, Russia, 2018-2019
-                <P>Java software developer</P>
-                
+                <p>Java software developer</p>               
             </p>
             </li>
           </ul>
